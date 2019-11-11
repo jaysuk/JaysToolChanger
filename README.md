@@ -23,6 +23,7 @@ These aren't in any particular order
 * Release duet config files
 * Sort out electronics layout
 * Update the bed model to include embedded magnets for swappable print surfaces
+* Determine location of end stops for X, Y and Z
 	
 # Supplied Formats
 The design will be supplied in the following file formats
