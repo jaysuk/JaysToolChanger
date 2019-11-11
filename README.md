@@ -38,4 +38,5 @@ I welcome any feedback on this printer and will be working more on the design ov
 # About Me
 I'm a mechaical engineer by trade and have been dabbling in 3D printing for the last 9 years.
 I have owned a number of printers, mainly cartesian or delta types. This is my first coreXY.
-I plan on posting on [My Blog](https://www.jayuk.org/) with my build progression
+I plan on posting on [My Blog](https://www.jayuk.org/) with my build progression.
+There is a [Discord Server](https://discord.gg/txqEmK). Come and join me for a chat!
