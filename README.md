@@ -1,7 +1,7 @@
 # JaysToolChanger
 Tool Changing 3D printer with a larger print volume and minimal machined parts.
 
-![Printer](/JaysToolChanger/Printer_Design/Renders/Printer_View_1.JPG)
+![Printer](/Printer_Design/Renders/Printer_View_1.JPG)
 
 The design is pretty much completed and I am currently ordering and printing components.
 I plan to have it built within the next couple of months or so.
