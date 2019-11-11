@@ -1,0 +1,28 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('W 605-2Z_PART4.step',
+    '2019-11-11T12:31:39',
+    ( '' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2019',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+#1 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #8 ) ;
+#2 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #6 ) ;
+#3 = PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE ( 'ANY', '', #10, .NOT_KNOWN. ) ;
+#4 = PRODUCT_RELATED_PRODUCT_CATEGORY ( 'part', '', ( #10 ) ) ;
+#5 = PRODUCT_DEFINITION_SHAPE ( 'NONE', 'NONE',  #11 ) ;
+#6 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#7 = PRODUCT_DEFINITION_CONTEXT ( 'detailed design', #8, 'design' ) ;
+#8 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#9 = PRODUCT_CONTEXT ( 'NONE', #6, 'mechanical' ) ;
+#10 = PRODUCT ( 'W 605-2Z_PART4', 'W 605-2Z_PART4', '', ( #9 ) ) ;
+#11 = PRODUCT_DEFINITION ( 'UNKNOWN', '', #3, #7 ) ;
+ENDSEC;
+END-ISO-10303-21;
